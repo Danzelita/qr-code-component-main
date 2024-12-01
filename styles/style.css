@@ -15,6 +15,7 @@ body{
     background-color: var(--Slate-300);
     font-size: 15px;
     font-family: "Outfit", sans-serif;
+    color: var(--Slate-900);
 }
 .qr-code-component{
     margin: 200px auto;
